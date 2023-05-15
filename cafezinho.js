@@ -1,3 +1,7 @@
 function MDE(){
-document.getElementById("body").innerHTML=class="modoescuro"
+const botaomd = document.getElementById("botaozinho");
+const body = document.getElementById("body");
+botaomd.addEventListener("click", () =>{
+body.classlist.add("modoescuro");
+}
 }
