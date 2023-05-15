@@ -3,4 +3,3 @@ const body = document.querySelector("body");
 
 BotaoMudarTema.addEventListener("click", () =>{
 body.classList.add("modoescuro");})
-}
