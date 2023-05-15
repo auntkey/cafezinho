@@ -1,6 +1,15 @@
 body{
 background-color:rgb(255, 184, 215);
 }
+
+.modoescuro{
+background-color: #333333;
+}
+
+.navmodoescuro{
+background-color: #533333;
+}
+
 header img{
     padding: 20px;
     padding-left: 320px;
