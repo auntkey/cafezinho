@@ -31,6 +31,13 @@ gap: 40px;
 cursor: pointer;
 }
 
+.navbar .sun{
+cursor:pointer;
+align-items: right;
+padding-right: 40px;
+padding: 25px
+}
+
 main{
     padding: 2px;
     padding-left: 300px;
