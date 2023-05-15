@@ -51,6 +51,11 @@ main{
     
 }
 
+li.cartao {
+    justify-content: space-between;
+    padding-bottom: 25px;
+}
+
 .cartao .bolos{
     padding-top: 60px;
     padding-bottom: 42px;
