@@ -38,6 +38,10 @@ padding-right: 40px;
 padding: 25px
 }
 
+.botaozinho{
+cursor:pointer;
+}
+
 main{
     padding: 2px;
     padding-left: 300px;
