@@ -6,7 +6,8 @@ header img{
 
 header{
     padding: 40px;
-    background-color: #333333;
+    background-color: pink;
+    margin-bottom: 40px;
 }
 
 header .navbar{
