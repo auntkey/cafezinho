@@ -18,6 +18,10 @@ display: flex;
 gap: 40px;
 }
 
+.navbar a{
+cursor: pointer;
+}
+
 main{
     padding: 2px;
     padding-left: 300px;
