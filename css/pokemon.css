@@ -6,6 +6,12 @@ header img{
 
 header{
     padding: 40px;
+    background-color: #333333;
+}
+
+header .navbar{
+display: flex;
+gap: 40px;
 }
 
 main{
